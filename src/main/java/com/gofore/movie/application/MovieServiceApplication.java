@@ -1,4 +1,4 @@
-package com.gofore.movie.service;
+package com.gofore.movie.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
